@@ -1,0 +1,4 @@
+com\trustbycode\ApplicationTests.class
+com\trustbycode\Repository\ClientRepositoryTest.class
+com\trustbycode\Service\ClientServiceTest.class
+com\trustbycode\Controller\ClientControllerTest.class
